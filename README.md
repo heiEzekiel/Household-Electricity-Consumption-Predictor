@@ -1,7 +1,7 @@
 # IS424 Data Mining and Analytics Project  
 ## Project Overview
 Electricity consumption predictor that predicts electrcity consumption (kWh) for the specified month based on weather, region, and dwelling type inputs. Prediction models include 8 Deep Neural Nets, 7 Regression models, 3 Ensemble models and 1 K-Nearest Neighbors model
-## Datasets
+## Datasets - (found in "python notebooks") <br/>
 ### Singapore Energy Statistics
 * Gathered by the Energy Market Authority of Singapore
 * Variables used from Sheet T3.5 - Average Monthly Household Elecrtricity Consumption by Planning Area & Dwelling Type
